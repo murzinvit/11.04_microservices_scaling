@@ -35,3 +35,5 @@
 ---
 work notes: </br>
 https://andreyex.ru/ubuntu/chto-takoe-obnaruzhenie-servisov-v-kubernetes/amp/?q= </br>
+https://habr.com/ru/company/true_engineering/blog/426821/ </br>
+
