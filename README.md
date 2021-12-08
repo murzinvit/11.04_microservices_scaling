@@ -10,7 +10,6 @@
 - Обеспечивать явное разделение ресурсов доступных извне и внутри системы;
 - Обеспечивать возможность конфигурировать приложения с помощью переменных среды, в том числе с возможностью безопасного хранения чувствительных данных таких как пароли, ключи доступа, ключи шифрования и т.п. Обоснуйте свой выбор.
 
-
 #### В качестве закрытия всех перечисленных запрсов подойдёт k8s. </br>
 
 1) Поддержка контейнеров: </br>
@@ -44,6 +43,7 @@
 
 ---
 work notes: </br>
+https://www.devmind.ru/k8s/razvorachivaem-ha-cluster-redis-in-kubernetes </br>
 https://andreyex.ru/ubuntu/chto-takoe-obnaruzhenie-servisov-v-kubernetes/amp/?q= </br>
 https://habr.com/ru/company/true_engineering/blog/426821/ </br>
 https://habr.com/ru/company/flant/blog/491320/ </br>
