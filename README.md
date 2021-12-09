@@ -14,7 +14,7 @@
 
 1) Поддержка контейнеров: </br>
 `Kubernetes поддерживает только Container Runtime, которые работают с Container Runtime Interface (CRI).
-Kubernetes поддерживает разные системы контейнеризации, например: Docker(containerd через dockershim), rkt, cri-o, containerd` </br>
+Kubernetes поддерживает разные системы контейнеризации, например: Docker(containerd через dockershim), cri-o(RedHat), rkt` </br>
 
 2) Обеспечивать обнаружение сервисов и маршрутизацию запросов </br>
 `Kubernetes DNS: каждому сервису, созданному с помощью объекта Service, присваивается доменное имя, совпадающее с именем самого сервиса. Маршрутизация происходт
